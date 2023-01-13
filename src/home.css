@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+.grid-container {
+    display: grid;
+    margin: 0;
+    padding: 0;
+    row-gap: 0px;
+  }
+
+
+  h1 {
+    padding:0;
+    margin:0;
+   }
+
+  * {
+      margin: 0px;
+      padding: 0px;
+  }
+
+  #navbar {
+    
+}
+
+    #topbar {
+        background-color:  #FEF1EF;
+    }
+
+    #slider {
+        
+    }
+
+    #page-body {
+       
+    }
+
+    #footer {
+      
+    }
+
+  html {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow-x: hidden; 
+  }
+
+  body {
+    margin: 0;
+    padding: 0; 
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden; 
+  }
+
+  div {
+      margin: 0;
+      padding: 0;
+  }
+
+  .toplink {
+    color: #F9A392;
+    text-decoration: none;
+    background-color: transparent;
+  }
+
+  .pinkparts, span {
+    color: #F9A392;
+  }
+
+ 
+
+    
+  
+
+  
